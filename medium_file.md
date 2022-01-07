@@ -1,0 +1,2 @@
+cook
+do laundry
