@@ -1,3 +1,5 @@
-class irmak() {
-  
+class Irmak {
+  constructor(name) {
+    this.name = name
+  }
 }
